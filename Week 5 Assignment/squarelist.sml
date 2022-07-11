@@ -1,0 +1,1 @@
+fun squarelist lst = map (fn x => x*x) lst

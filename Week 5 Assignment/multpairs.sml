@@ -1,0 +1,1 @@
+fun multpairs lst = map (fn (a,b) => a * b) lst

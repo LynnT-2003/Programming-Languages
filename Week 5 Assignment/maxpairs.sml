@@ -1,0 +1,1 @@
+fun maxpairs lst= map (fn (a,b) => if a > b then a else b) lst

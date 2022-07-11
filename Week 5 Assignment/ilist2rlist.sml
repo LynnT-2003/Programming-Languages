@@ -1,0 +1,1 @@
+fun ilist2rlist (lst: int list) = map Real.fromInt lst
